@@ -1,0 +1,11 @@
+text
+# Игнорировать всё
+*
+
+# Список разрешений:
+!*.ipynb
+!*.xlsx
+!*.csv
+!*.py
+!README.md
+!.gitignore
